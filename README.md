@@ -3,7 +3,7 @@ Dieses Git-Repository enthält Dateien mit Web-Content (HTML, CSS, JavaScript),
 mit denen der Cloud-Dienst [*PhoneGap Build* von Adobe](https://build.phonegap.com)
 App-Dateien für Android, iOS und WindowsPhone-Geräte erzeugen kann.
 
-* In der Weboberfläche von *PhoneGap Build* unter [im Tab "Apps"](https://build.phonegap.com/apps) auf den Button *"+ new app"* klicken.
+* In der Weboberfläche von *PhoneGap Build* [im Tab "Apps"](https://build.phonegap.com/apps) auf den Button *"+ new app"* klicken.
 * Dann den Tab *open-source* auswählen und die URL zu diesem Git-Repository
   eintragen.
 
