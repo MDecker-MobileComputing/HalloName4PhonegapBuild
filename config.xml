@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns       = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "de.mide.phonegap.halloname"
+        versionCode = "1"
+        version     = "1.0" >
+
+  <name>Hallo Name</name>
+
+  <description>
+      PhoneGap-App, die nach Eingabe des Namens eine Begrüßung anzeigt.
+      Ab Mai 2017.
+  </description>
+
+  <author href="https://build.phonegap.com" email="support@phonegap.com">
+      K. Einer
+  </author>
+  
+  <!-- siehe Plugin-Liste unter https://build.phonegap.com/plugins 
+       (Tab "Core Plugins") -->
+  <plugin name="cordova-plugin-dialogs" spec="~1.3.3" />
+
+</widget>
